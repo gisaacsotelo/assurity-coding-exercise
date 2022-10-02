@@ -1,0 +1,22 @@
+{
+  "name": "assurity-coding-exercise",
+  "version": "1.0.0",
+  "description": "Coding execise for Assurity",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gisaacsotelo/assurity-coding-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gisaacsotelo/assurity-coding-exercise/issues"
+  },
+  "homepage": "https://github.com/gisaacsotelo/assurity-coding-exercise#readme",
+  "dependencies": {
+    "cypress": "^10.9.0"
+  }
+}
